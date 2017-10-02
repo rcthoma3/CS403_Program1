@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Program 01</string>
+    <string-array name="DegreeTypes">
+        <item>A.A.</item>
+        <item>A.S.</item>
+        <item>AAS</item>
+        <item>B.A.</item>
+        <item>B.S.</item>
+        <item>BFA</item>
+        <item>BAS</item>
+        <item>M.A.</item>
+        <item>M.S..</item>
+        <item>MBA</item>
+        <item>MFA.</item>
+        <item>Ph.D.</item>
+        <item>J.D.</item>
+        <item>M.D.</item>
+        <item>DDS</item>
+    </string-array>
+</resources>
